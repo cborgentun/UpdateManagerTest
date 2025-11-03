@@ -1,0 +1,22 @@
+{
+  "modules": [
+    {
+      "name": "CoreModule",
+      "version": "1.2.3",
+      "downloadUrl": "https://example.com/modules/CoreModule-1.2.3.zip",
+      "checksum": "abc123def456"
+    },
+    {
+      "name": "UIModule",
+      "version": "2.0.1",
+      "downloadUrl": "https://example.com/modules/UIModule-2.0.1.zip",
+      "checksum": "789xyz012abc"
+    },
+    {
+      "name": "DataModule",
+      "version": "3.1.0",
+      "downloadUrl": "https://example.com/modules/DataModule-3.1.0.zip",
+      "checksum": "def456ghi789"
+    }
+  ]
+}
