@@ -4,20 +4,21 @@
     <Module>
       <Name>CoreModule</Name>
       <Version>1.2.3</Version>
-      <DownloadUrl>TestFiles/CoreModule-1.2.3.zip</DownloadUrl>
+      <DownloadUrl>https://github.com/cborgentun/UpdateManagerTest/raw/refs/heads/main/CoreModule-1.2.3.zip</DownloadUrl>
       <Checksum>abc123def456</Checksum>
     </Module>
     <Module>
       <Name>UIModule</Name>
       <Version>2.0.1</Version>
-      <DownloadUrl>TestFiles/UIModule-2.0.1.zip</DownloadUrl>
+      <DownloadUrl>https://github.com/cborgentun/UpdateManagerTest/raw/refs/heads/main/UIModule-2.0.1.zip</DownloadUrl>
       <Checksum>789xyz012abc</Checksum>
     </Module>
     <Module>
       <Name>DataModule</Name>
       <Version>3.1.0</Version>
-      <DownloadUrl>TestFiles/DataModule-3.1.0.zip</DownloadUrl>
+      <DownloadUrl>https://github.com/cborgentun/UpdateManagerTest/raw/refs/heads/main/DataModule-3.1.0.zip</DownloadUrl>
       <Checksum>def456ghi789</Checksum>
     </Module>
   </Modules>
 </Manifest>
+
