@@ -19,5 +19,11 @@
       <DownloadUrl>https://github.com/cborgentun/UpdateManagerTest/raw/refs/heads/main/DataModule-3.1.0.zip</DownloadUrl>
       <Checksum>da9f4772465f52d0f352ac4275a15a8cf1c622a967e3755a64d3af4e01b4d6b9</Checksum> <!-- SHA256 checksum of the ZIP file -->
     </Module>
+    <Module>
+      <Name>ReportsModule</Name>
+      <Version>1.0.0</Version>
+      <DownloadUrl>https://github.com/cborgentun/UpdateManagerTest/raw/refs/heads/main/ReportsModule-1.0.0.zip</DownloadUrl>
+      <Checksum>0d365d2b6f3933aee964d0cba12ee8e399aded6ada3330c9264dcb45082b7c14</Checksum> <!-- SHA256 checksum of the ZIP file -->
+    </Module>
   </Modules>
 </Manifest>
