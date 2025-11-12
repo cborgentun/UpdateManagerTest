@@ -6,13 +6,6 @@
       <Version>1.2.3</Version>
       <DownloadUrl>https://github.com/cborgentun/UpdateManagerTest/raw/refs/heads/main/CoreModule-1.2.3.zip</DownloadUrl>
       <Checksum>aa385d658ba347b1fb36b77b870014e299f08322045769ccdb30940fb6a3cbf4</Checksum> <!-- SHA256 checksum of the ZIP file -->
-      <Dependencies>
-        <!-- CIRCULAR: CoreModule depends on UIModule -->
-        <Dependency>
-          <Name>UIModule</Name>
-          <MinVersion>2.0.0</MinVersion>
-        </Dependency>
-      </Dependencies>
     </Module>
     <Module>
       <Name>UIModule</Name>
@@ -20,10 +13,10 @@
       <DownloadUrl>https://github.com/cborgentun/UpdateManagerTest/raw/refs/heads/main/UIModule-2.0.1.zip</DownloadUrl>
       <Checksum>7cdb54d2d0b8558446b720f791765d6b1f70906184df0a4380eae9cfdb3f60b4</Checksum> <!-- SHA256 checksum of the ZIP file -->
       <Dependencies>
-        <!-- CIRCULAR: UIModule depends on CoreModule -->
         <Dependency>
           <Name>CoreModule</Name>
-          <MinVersion>1.2.0</MinVersion>
+          <MinVersion>1.0.0</MinVersion>
+          <MaxVersion>1.2.0</MaxVersion>
         </Dependency>
       </Dependencies>
     </Module>
@@ -47,7 +40,7 @@
       <Dependencies>
         <Dependency>
           <Name>CoreModule</Name>
-          <MinVersion>1.4.0</MinVersion>
+          <MinVersion>1.2.0</MinVersion>
         </Dependency>
         <Dependency>
           <Name>DataModule</Name>
