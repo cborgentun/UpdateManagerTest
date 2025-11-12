@@ -21,6 +21,10 @@
           <MinVersion>1.1.0</MinVersion>
           <MaxVersion>1.2.0</MaxVersion>
         </Dependency>
+        <Dependency>
+          <Name>ReportsModule</Name>
+          <MinVersion>1.0.0</MinVersion>
+        </Dependency>
       </Dependencies>
     </Module>
     <Module>
