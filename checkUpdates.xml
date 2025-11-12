@@ -19,7 +19,6 @@
         <Dependency>
           <Name>CoreModule</Name>
           <MinVersion>1.1.0</MinVersion>
-          <MaxVersion>1.2.0</MaxVersion>
         </Dependency>
         <Dependency>
           <Name>ReportsModule</Name>
@@ -50,8 +49,8 @@
           <MinVersion>1.2.0</MinVersion>
         </Dependency>
         <Dependency>
-          <Name>DataModule</Name>
-          <MinVersion>3.1.0</MinVersion>
+          <Name>UIModule</Name>
+          <MinVersion>2.0.1</MinVersion>
         </Dependency>
       </Dependencies>
     </Module>
