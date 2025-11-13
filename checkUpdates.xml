@@ -5,7 +5,8 @@
       <Name>CoreModule</Name>
       <Version>1.2.3</Version>
       <DownloadUrl>https://github.com/cborgentun/UpdateManagerTest/raw/refs/heads/main/CoreModule-1.2.3.zip</DownloadUrl>
-      <Checksum>aa385d658ba347b1fb36b77b870014e299f08322045769ccdb30940fb6a3cbf4</Checksum> <!-- SHA256 checksum of the ZIP file -->
+      <Checksum>aa385d658ba347b1fb36b77b870014e299f08322045769ccdb30940fb6a3cbf</Checksum> <!-- SHA256 checksum of the ZIP file -->
+	  <OldChecksum>aa385d658ba347b1fb36b77b870014e299f08322045769ccdb30940fb6a3cbf4</OldChecksum>
     </Module>
     <Module>
       <Name>UIModule</Name>
