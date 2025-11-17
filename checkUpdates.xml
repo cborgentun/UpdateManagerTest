@@ -16,7 +16,7 @@
         <Dependency>
           <Name>CoreModule</Name>
           <MinVersion>1.0.0</MinVersion>
-          <MaxVersion>1.2.0</MaxVersion>
+          <MaxVersion>1.2.2</MaxVersion>
         </Dependency>
       </Dependencies>
     </Module>
