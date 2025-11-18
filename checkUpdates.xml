@@ -48,5 +48,17 @@
         </Dependency>
       </Dependencies>
     </Module>
+    <Module>
+      <Name>CorruptedZIPModule</Name>
+      <Version>2.8.3</Version>
+      <DownloadUrl>https://github.com/cborgentun/UpdateManagerTest/raw/refs/heads/main/CorruptedZIPModule-2.8.3.zip</DownloadUrl>
+      <Checksum>63031256aaf98c294af272a986d892b1ecf6ce4d09a1d61994249a5ba7d0bef9</Checksum> <!-- SHA256 checksum of the ZIP file -->
+    </Module>
+    <Module>
+      <Name>MissingDLLModule</Name>
+      <Version>0.9.0</Version>
+      <DownloadUrl>https://github.com/cborgentun/UpdateManagerTest/raw/refs/heads/main/MissingDLLModule-0.9.0.zip</DownloadUrl>
+      <Checksum>c47bc3d2fec4241dc5a7fb40d4df0a0f05e856557be39958322fa51c203e4c37</Checksum> <!-- SHA256 checksum of the ZIP file -->
+    </Module>
   </Modules>
 </Manifest>
