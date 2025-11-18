@@ -52,7 +52,7 @@
       <Name>CorruptedZIPModule</Name>
       <Version>2.8.3</Version>
       <DownloadUrl>https://github.com/cborgentun/UpdateManagerTest/raw/refs/heads/main/CorruptedZIPModule-2.8.3.zip</DownloadUrl>
-      <Checksum>63031256aaf98c294af272a986d892b1ecf6ce4d09a1d61994249a5ba7d0bef9</Checksum> <!-- SHA256 checksum of the ZIP file -->
+      <Checksum>6f5717e8431613509b919a937ba19a9aed2c8d645b358deac95d021aaef7a42c</Checksum> <!-- SHA256 checksum of the ZIP file -->
     </Module>
     <Module>
       <Name>MissingDLLModule</Name>
